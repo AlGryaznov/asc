@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+<beans xmlns="http://www.springframework.org/schema/beans"
+       xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+       xmlns:context="http://www.springframework.org/schema/context"
+       xmlns:util="http://www.springframework.org/schema/util"
+       xsi:schemaLocation="http://www.springframework.org/schema/beans
+       http://www.springframework.org/schema/beans/spring-beans.xsd
+       http://www.springframework.org/schema/context
+       http://www.springframework.org/schema/context/spring-context.xsd http://www.springframework.org/schema/util https://www.springframework.org/schema/util/spring-util.xsd">
+
+    <context:property-placeholder location="classpath:lesson6/musicPlayer.properties"/>
+
+    <bean id="classicalMusicBean"
+          class="ru.alishev.spring.lesson8.ClassicalMusic"
+          factory-method="getClassicalMusicFabric"
+          init-method="init"
+          destroy-method="destroy">
+    </bean>
+    <bean id="rockMusicBean"
+          init-method="init"
+          destroy-method="destroy"
+          scope="prototype"
+          class="ru.alishev.spring.lesson8.RockMusic">
+    </bean>
+    <bean id="countryMusicBean"
+          class="ru.alishev.spring.lesson6.CountryMusic">
+    </bean>
+
+</beans>
