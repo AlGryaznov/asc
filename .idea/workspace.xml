@@ -10,114 +10,23 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="4fa5eb9a-920a-4b14-b1ee-f2b25514358b" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/.idea/artifacts/unnamed.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson10/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/MusicType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson11/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/MusicType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson12/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/Computer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/MusicType.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson13/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson6/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson7/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson8/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson8/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson8/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/ClassicalMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/CountryMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/Music.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/MusicPlayer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/RockMusic.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson9/TestContext.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson10/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson11/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson12/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson12/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson13/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson4/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson5/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson6/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson6/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson7/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson7/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson8/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson8/musicPlayer.properties" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson9/application-context.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/pom.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/HelloController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringConfig.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringMVCDispatcherServletInitializer.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/controllers/FirstController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/controllers/PeopleController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/controllers/SecondController.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/dao/PersonDAO.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/models/Person.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/old/applicationContextMVC.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/first/calculation.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/first/goodbye.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/first/hello.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/hello_world.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/second/exit.html" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/index.jsp" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" afterPath="$PROJECT_DIR$/.gitignore" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/misc.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/vcs.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/dataSources.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/sqldialects.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/dao/PersonMapper.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/resources/database.properties" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/edit.html" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/new.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/pom.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringMVCDispatcherServletInitializer.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/config/SpringMVCDispatcherServletInitializer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/controllers/PeopleController.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/controllers/PeopleController.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/dao/PersonDAO.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/dao/PersonDAO.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/models/Person.java" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/java/ru/alishev/spring/models/Person.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/index.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/index.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/show.html" beforeDir="false" afterPath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/views/people/show.html" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/2-spring-mvc/src/main/webapp/WEB-INF/web.xml" beforeDir="false" />
       <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson3/TestBean.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson3/TestBean.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson3/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson3/TestContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson4/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/ClassicalMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson4/Music.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/Music.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson4/MusicPlayer.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson4/RockMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/RockMusic.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson4/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson4/TestContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/alishev/spring/lesson5/TestContext.java" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/java/ru/alishev/spring/lesson5/TestContext.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/resources/application-context.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/resources/lesson3/application-context.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/WEB-INF/web.xml" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/webapp/WEB-INF/web.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/webapp/index.jsp" beforeDir="false" afterPath="$PROJECT_DIR$/1-spring-core/src/main/webapp/index.jsp" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -128,8 +37,8 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Enum" />
-        <option value="Class" />
         <option value="HTML File" />
+        <option value="Class" />
       </list>
     </option>
   </component>
@@ -152,44 +61,50 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "Application.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson10.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson11.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson12.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson13.TestContext (1).executor": "Run",
-    "Application.ru.alishev.spring.lesson13.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson3.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson4.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson5.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson7.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson8.TestContext.executor": "Run",
-    "Application.ru.alishev.spring.lesson9.TestContext.executor": "Run",
-    "DefaultHtmlFileTemplate": "HTML File",
-    "Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor": "Run",
-    "Maven.asc [clean].executor": "Run",
-    "Maven.asc [compile].executor": "Run",
-    "ModuleVcsDetector.initialDetectionPerformed": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "RunOnceActivity.git.unshallow": "true",
-    "Tomcat Server.Tomcat 11.0.10.executor": "Run",
-    "Tomcat Server.Unnamed.executor": "Run",
-    "git-widget-placeholder": "master",
-    "last_opened_file_path": "/Users/avg/Study/alishev/asc/3-spring-crud/src/main/java",
-    "node.js.detected.package.eslint": "true",
-    "node.js.detected.package.tslint": "true",
-    "node.js.selected.package.eslint": "(autodetect)",
-    "node.js.selected.package.tslint": "(autodetect)",
-    "nodejs_package_manager_path": "npm",
-    "onboarding.tips.debug.path": "D:/storage/courses/Alishev/Код/asc/springcore/src/main/java/ru/alishev/spring/Main.java",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.15",
-    "project.structure.side.proportion": "0.2",
-    "settings.editor.selected.configurable": "preferences.lookFeel",
-    "vue.rearranger.settings.migration": "true"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Application.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson10.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson11.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson12.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson13.TestContext (1).executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson13.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson3.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson4.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson5.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson7.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson8.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;Application.ru.alishev.spring.lesson9.TestContext.executor&quot;: &quot;Run&quot;,
+    &quot;DefaultHtmlFileTemplate&quot;: &quot;HTML File&quot;,
+    &quot;Maven. [org.apache.maven.plugins:maven-archetype-plugin:RELEASE:generate].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.asc [clean].executor&quot;: &quot;Run&quot;,
+    &quot;Maven.asc [compile].executor&quot;: &quot;Run&quot;,
+    &quot;ModuleVcsDetector.initialDetectionPerformed&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;SHARE_PROJECT_CONFIGURATION_FILES&quot;: &quot;true&quot;,
+    &quot;Tomcat Server.Tomcat 11.0.10.executor&quot;: &quot;Run&quot;,
+    &quot;Tomcat Server.Unnamed.executor&quot;: &quot;Run&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;master&quot;,
+    &quot;last_opened_file_path&quot;: &quot;/Users/avg/Study/alishev/asc/3-spring-crud/src/main/java&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;onboarding.tips.debug.path&quot;: &quot;D:/storage/courses/Alishev/Код/asc/springcore/src/main/java/ru/alishev/spring/Main.java&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.15&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.2&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  },
+  &quot;keyToStringList&quot;: {
+    &quot;DatabaseDriversLRU&quot;: [
+      &quot;postgresql&quot;
+    ]
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="$PROJECT_DIR$/3-spring-crud/src/main/java" />
@@ -199,11 +114,11 @@
       <recent name="D:\storage\courses\Alishev\Код\asc\src\main\java\ru\alishev\spring\lesson13" />
     </key>
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="D:\storage\courses\Alishev\Код\asc\2-spring-mvc\src\main\webapp\WEB-INF\views\people" />
       <recent name="D:\storage\courses\Alishev\Код\asc\2-spring-mvc\src\main\webapp\WEB-INF\old" />
       <recent name="D:\storage\courses\Alishev\Код\asc\springcore" />
       <recent name="D:\storage\courses\Alishev\Код\asc\src\main\resources" />
       <recent name="D:\storage\courses\Alishev\Код\asc\src\main\resources\lesson3" />
-      <recent name="D:\storage\courses\Alishev\Код\asc\src\main\resources\lesson9" />
     </key>
     <key name="CopyClassDialog.RECENTS_KEY">
       <recent name="ru.alishev.spring.lesson8" />
@@ -228,27 +143,17 @@
         </artifact>
       </deployment>
       <server-settings>
-        <option name="BASE_DIRECTORY_NAME" value="27e02fec-c836-41b6-9815-970de40cee11" />
+        <option name="BASE_DIRECTORY_NAME" value="264f7f14-4b4f-4083-ba56-514cf3ba61b9" />
       </server-settings>
       <predefined_log_file enabled="true" id="Tomcat" />
       <predefined_log_file enabled="true" id="Tomcat Catalina" />
       <predefined_log_file id="Tomcat Manager" />
       <predefined_log_file id="Tomcat Host Manager" />
       <predefined_log_file id="Tomcat Localhost Access" />
-      <extension name="net.ashald.envfile">
-        <option name="IS_ENABLED" value="false" />
-        <option name="IS_SUBST" value="false" />
-        <option name="IS_PATH_MACRO_SUPPORTED" value="false" />
-        <option name="IS_IGNORE_MISSING_FILES" value="false" />
-        <option name="IS_ENABLE_EXPERIMENTAL_INTEGRATIONS" value="false" />
-        <ENTRIES>
-          <ENTRY IS_ENABLED="true" PARSER="runconfig" IS_EXECUTABLE="false" />
-        </ENTRIES>
-      </extension>
-      <RunnerSettings RunnerId="Debug">
-        <option name="DEBUG_PORT" value="49785" />
+      <RunnerSettings RunnerId="AppServerDebuggerRunner">
+        <option name="DEBUG_PORT" value="59617" />
       </RunnerSettings>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="AppServerDebuggerRunner">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -263,7 +168,7 @@
           <option name="PROGRAM_PARAMETERS" value="" />
         </SHUTDOWN>
       </ConfigurationWrapper>
-      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Debug">
+      <ConfigurationWrapper VM_VAR="JAVA_OPTS" RunnerId="Cover">
         <option name="USE_ENV_VARIABLES" value="true" />
         <STARTUP>
           <option name="USE_DEFAULT" value="true" />
@@ -316,6 +221,14 @@
       </method>
     </configuration>
   </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-jdk-9823dce3aa75-fbdcb00ec9e3-intellij.indexing.shared.core-IU-251.25410.129" />
+        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-IU-251.25410.129" />
+      </set>
+    </attachedChunks>
+  </component>
   <component name="StructureViewState">
     <option name="selectedTab" value="Logical" />
   </component>
@@ -335,6 +248,9 @@
       <workItem from="1755103024800" duration="1219000" />
       <workItem from="1755104256037" duration="57000" />
       <workItem from="1755104354288" duration="6408000" />
+      <workItem from="1755762674758" duration="16695000" />
+      <workItem from="1755842455506" duration="19143000" />
+      <workItem from="1755937699405" duration="1232000" />
     </task>
     <servers />
   </component>

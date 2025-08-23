@@ -1,6 +1,11 @@
 package ru.alishev.spring.config;
 
+
+import jakarta.servlet.ServletContext;
+import jakarta.servlet.ServletException;
+import org.springframework.web.filter.HiddenHttpMethodFilter;
 import org.springframework.web.servlet.support.AbstractAnnotationConfigDispatcherServletInitializer;
+
 
 public class SpringMVCDispatcherServletInitializer extends AbstractAnnotationConfigDispatcherServletInitializer {
     @Override
@@ -16,5 +21,17 @@ public class SpringMVCDispatcherServletInitializer extends AbstractAnnotationCon
     @Override
     protected String[] getServletMappings() {
         return new String[] {"/"};
+    }
+
+    @Override
+    public void onStartup(ServletContext servletContext) throws ServletException {
+        super.onStartup(servletContext);
+        registerHiddenFieldFilter(servletContext);
+    }
+
+    public void registerHiddenFieldFilter(ServletContext servletContext) {
+        servletContext.addFilter("hiddenHttpMethodFilter", new HiddenHttpMethodFilter())
+                .addMappingForUrlPatterns(null, true, "/*");
+
     }
 }

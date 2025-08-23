@@ -7,7 +7,6 @@
   <modules>
     <module>1-spring-core</module>
     <module>2-spring-mvc</module>
-    <module>3-spring-crud</module>
   </modules>
   <version>1.0</version>
   <name>asc Maven Webapp</name>
